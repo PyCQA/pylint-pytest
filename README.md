@@ -1,3 +1,7 @@
+## NOTE
+
+This package has moved to https://github.com/pylint-dev/pylint-pytest. Active development occurs on that fork.
+
 # pylint-pytest
 
 [![PyPI version fury.io](https://badge.fury.io/py/pylint-pytest.svg)](https://pypi.python.org/pypi/pylint-pytest/)
